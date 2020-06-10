@@ -28,7 +28,7 @@ gem 'paperclip', '~> 5.1'
 gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
 gem 'font-awesome-sass', '~> 4.7'
-gem 'geocoder', '~> 1.4', '>= 1.4.4'
+gem 'geocoder', '~> 1.6'
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
